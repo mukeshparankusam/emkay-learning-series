@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "class": 6,
+    "subject": "Mathematics",
+    "textbook": "Ganita Prakash",
+    "editionReference": "NCERT 2026–27 reprint; verify exact school-prescribed copy before publishing as final",
+    "officialTextbookPortal": "https://ncert.nic.in/textbook.php",
+    "chapterInventorySource": "Cross-checked against a current catalog of the NCERT Class VI Ganita Prakash textbook; official portal must be selected to confirm the school's language/edition.",
+    "status": "Original learning packages authored for Chapters 1–10. These are supplementary lessons, not a complete official textbook answer key; review against the school-prescribed edition before publication."
+  },
+  "chapters": [
+    "Patterns in Mathematics",
+    "Lines and Angles",
+    "Number Play",
+    "Data Handling and Presentation",
+    "Prime Time",
+    "Perimeter and Area",
+    "Fractions",
+    "Playing with Constructions",
+    "Symmetry",
+    "The Other Side of Zero"
+  ],
+  "lesson": {
+    "title": "Patterns in Mathematics",
+    "subtitle": "Original concept guide · Class 6 Mathematics",
+    "learningGoals": [
+      "Describe a number pattern using a clear rule.",
+      "Recognise counting, odd, even, square, triangular and cube number sequences.",
+      "Find missing terms without guessing randomly.",
+      "Explain why a pattern continues, rather than only stating the next number.",
+      "Connect number patterns to visual arrangements and shapes."
+    ],
+    "concepts": [
+      {
+        "title": "What is a mathematical pattern?",
+        "explanation": "A pattern is an arrangement that follows a rule. The rule may describe how numbers change, how shapes repeat, or how objects are arranged. A good explanation states the rule clearly enough that another person can use it to continue the pattern.",
+        "example": "In 4, 7, 10, 13, … each term is 3 more than the previous term. The rule is ‘add 3 each time’. The next term is 16."
+      },
+      {
+        "title": "Counting numbers",
+        "explanation": "The counting numbers begin 1, 2, 3, 4, 5, … . Each term is one greater than the term before it.",
+        "example": "After 28 comes 29, because 28 + 1 = 29."
+      },
+      {
+        "title": "Odd and even numbers",
+        "explanation": "Positive even numbers are divisible by 2 without a remainder: 2, 4, 6, 8, … . Odd numbers are not divisible by 2 without a remainder: 1, 3, 5, 7, … . In both sequences shown, consecutive terms differ by 2.",
+        "example": "The next two odd numbers after 17 are 19 and 21. The next two even numbers after 18 are 20 and 22."
+      },
+      {
+        "title": "Square numbers",
+        "explanation": "A square number is the product of a whole number multiplied by itself. The first terms are 1, 4, 9, 16, 25, 36, … because 1² = 1, 2² = 4, 3² = 9, and so on.",
+        "example": "The sixth square number is 6² = 6 × 6 = 36."
+      },
+      {
+        "title": "Triangular numbers",
+        "explanation": "Triangular numbers count dots arranged in rows of 1, then 2, then 3, and so on. Adding the first n counting numbers gives the nth triangular number: 1, 3, 6, 10, 15, 21, … . The differences are 2, 3, 4, 5, 6, … .",
+        "example": "After 10, add 5 to get 15; then add 6 to get 21."
+      },
+      {
+        "title": "Cube numbers",
+        "explanation": "A cube number is obtained by multiplying a whole number by itself three times. The sequence begins 1, 8, 27, 64, 125, … because 1³ = 1, 2³ = 8, 3³ = 27, and so on.",
+        "example": "4³ = 4 × 4 × 4 = 64."
+      },
+      {
+        "title": "How to find a rule",
+        "explanation": "Compare neighbouring terms. Check whether the same number is added or subtracted, whether terms are multiplied, or whether the sequence relates to squares, cubes or another known pattern. Test your proposed rule on more than one pair of terms.",
+        "example": "In 5, 10, 20, 40, … each term is multiplied by 2. The next term is 80. Adding 5 would not fit all the changes, so it is not the rule."
+      },
+      {
+        "title": "Visual patterns",
+        "explanation": "A drawing can reveal a rule that is hard to notice in a list of numbers. For example, square numbers can be represented by dots in an n-by-n square. Adding the next odd number creates the next larger square-shaped arrangement.",
+        "example": "A 2 × 2 square has 4 dots. To form a 3 × 3 square with 9 dots, 5 more dots are needed. The increase from 4 to 9 is 5."
+      },
+      {
+        "title": "Virahanka-type sequence",
+        "explanation": "In a Virahanka-type sequence, each new term is formed by adding the two terms immediately before it. Starting with 1, 2 gives 1, 2, 3, 5, 8, 13, 21, … . Always identify the starting terms before continuing the sequence.",
+        "example": "After 8 and 13, add them: 8 + 13 = 21. The next term is 13 + 21 = 34."
+      },
+      {
+        "title": "Powers of 2 and powers of 3",
+        "explanation": "A power sequence is formed by repeatedly multiplying by the same base. Powers of 2 begin 1, 2, 4, 8, 16, 32, … . Powers of 3 begin 1, 3, 9, 27, 81, … . These are multiplicative patterns, not patterns formed by adding a fixed amount.",
+        "example": "In 1, 3, 9, 27, … multiply by 3 each time, so the next term is 81."
+      },
+      {
+        "title": "Adding consecutive odd numbers",
+        "explanation": "The first n positive odd numbers add to n². The first few cases are 1 = 1², 1 + 3 = 4 = 2², and 1 + 3 + 5 = 9 = 3². One way to understand this is to imagine adding an L-shaped border of new dots to grow one square into the next square.",
+        "example": "1 + 3 + 5 + 7 = 16 = 4²."
+      },
+      {
+        "title": "Adding consecutive triangular numbers",
+        "explanation": "Two consecutive triangular numbers can combine to make a square number. For example, 3 + 6 = 9 and 6 + 10 = 16. A dot diagram can show how two triangular arrangements fit together into a square.",
+        "example": "The triangular numbers 10 and 15 add to 25, which is 5²."
+      },
+      {
+        "title": "Patterns in shapes",
+        "explanation": "Shape patterns can be described by counting sides, corners, edges or smaller repeated pieces. Regular polygons progress from a triangle with 3 sides to a quadrilateral with 4, a pentagon with 5, and a hexagon with 6 sides. A complete graph connects every pair of distinct points, and the number of connections follows a growing pattern. Repeatedly adding smaller triangular pieces can also create self-similar shapes such as a snowflake pattern.",
+        "example": "A regular polygon with 7 sides is called a heptagon. The side-count pattern continues 3, 4, 5, 6, 7, … ."
+      }
+    ],
+    "workedExamples": [
+      {
+        "question": "Find the next three terms: 2, 5, 8, 11, …",
+        "steps": [
+          "Find the difference: 5 − 2 = 3.",
+          "Check the next difference: 8 − 5 = 3 and 11 − 8 = 3.",
+          "The rule is add 3 each time.",
+          "Continue: 11 + 3 = 14; 14 + 3 = 17; 17 + 3 = 20."
+        ],
+        "answer": "14, 17, 20"
+      },
+      {
+        "question": "What is the 7th square number?",
+        "steps": [
+          "The nth square number is n × n.",
+          "For the 7th square number, use n = 7.",
+          "Calculate 7 × 7 = 49."
+        ],
+        "answer": "49"
+      },
+      {
+        "question": "Find the missing term: 1, 3, 6, 10, __, 21.",
+        "steps": [
+          "Calculate the differences: +2, +3, +4.",
+          "The differences increase by 1, so the next difference is +5.",
+          "10 + 5 = 15; then 15 + 6 = 21, which matches the final term."
+        ],
+        "answer": "15"
+      },
+      {
+        "question": "A sequence is 3, 9, 27, 81, … . What is the next term?",
+        "steps": [
+          "Compare terms: 9 ÷ 3 = 3; 27 ÷ 9 = 3; 81 ÷ 27 = 3.",
+          "The rule is multiply by 3.",
+          "81 × 3 = 243."
+        ],
+        "answer": "243"
+      },
+      {
+        "question": "How many dots are in a 5 × 5 square arrangement?",
+        "steps": [
+          "There are 5 rows.",
+          "Each row has 5 dots.",
+          "Total dots = 5 × 5 = 25."
+        ],
+        "answer": "25 dots"
+      },
+      {
+        "question": "Continue the Virahanka-type sequence: 1, 2, 3, 5, 8, __, __.",
+        "steps": [
+          "Each term is the sum of the two terms before it.",
+          "8 + 5 = 13.",
+          "13 + 8 = 21."
+        ],
+        "answer": "13, 21"
+      },
+      {
+        "question": "Find the sum 1 + 3 + 5 + 7 + 9.",
+        "steps": [
+          "There are five consecutive positive odd numbers, beginning with 1.",
+          "The sum of the first n odd numbers is n².",
+          "Here n = 5, so the sum is 5² = 25.",
+          "Check directly: 1 + 3 + 5 + 7 + 9 = 25."
+        ],
+        "answer": "25"
+      },
+      {
+        "question": "Find the next two terms: 1, 2, 4, 8, 16, … .",
+        "steps": [
+          "Each term is multiplied by 2.",
+          "16 × 2 = 32.",
+          "32 × 2 = 64."
+        ],
+        "answer": "32, 64"
+      }
+    ],
+    "practice": [
+      {
+        "question": "Write the next three counting numbers after 36.",
+        "answer": "37, 38, 39",
+        "reason": "Add 1 each time."
+      },
+      {
+        "question": "Write the next two odd numbers after 23.",
+        "answer": "25, 27",
+        "reason": "Odd numbers in this sequence increase by 2."
+      },
+      {
+        "question": "Complete: 1, 4, 9, 16, __, __.",
+        "answer": "25, 36",
+        "reason": "These are 1², 2², 3², 4², 5² and 6²."
+      },
+      {
+        "question": "Complete: 1, 3, 6, 10, 15, __.",
+        "answer": "21",
+        "reason": "The next increase is 6."
+      },
+      {
+        "question": "Complete: 1, 8, 27, __, 125.",
+        "answer": "64",
+        "reason": "These are cube numbers: 1³, 2³, 3³, 4³, 5³."
+      },
+      {
+        "question": "Describe the rule: 7, 14, 28, 56, … .",
+        "answer": "Multiply each term by 2; the next term is 112.",
+        "reason": "Each term is double the previous term."
+      },
+      {
+        "question": "Is 36 both a square number and an even number? Explain.",
+        "answer": "Yes. 36 = 6 × 6, so it is a square number, and it is divisible by 2, so it is even.",
+        "reason": "A number can belong to more than one number pattern."
+      },
+      {
+        "question": "A student says the next term after 2, 4, 8 is 16. Is that certain without a rule?",
+        "answer": "No. It is a likely continuation if the rule is ‘multiply by 2’, but a finite list alone can fit other rules. State and test the intended rule.",
+        "reason": "Mathematics requires explaining the rule, not only guessing a term."
+      },
+      {
+        "question": "Continue: 1, 2, 3, 5, 8, __, __.",
+        "answer": "13, 21",
+        "reason": "Add the two preceding terms to get each new term."
+      },
+      {
+        "question": "Write the first five positive powers of 2, starting with 1.",
+        "answer": "1, 2, 4, 8, 16",
+        "reason": "Multiply by 2 each time."
+      },
+      {
+        "question": "Calculate 1 + 3 + 5 + 7 + 9 and describe the pattern.",
+        "answer": "25 = 5²",
+        "reason": "The sum of the first five positive odd numbers is the fifth square number."
+      },
+      {
+        "question": "A regular polygon has 8 sides. What is it called?",
+        "answer": "An octagon",
+        "reason": "Polygon names are linked to their number of sides."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "What is the next term in 6, 9, 12, 15, …?",
+        "options": [
+          "16",
+          "17",
+          "18",
+          "20"
+        ],
+        "answer": 2,
+        "why": "Each term increases by 3, so 15 + 3 = 18."
+      },
+      {
+        "q": "Which is a square number?",
+        "options": [
+          "18",
+          "24",
+          "36",
+          "45"
+        ],
+        "answer": 2,
+        "why": "36 = 6 × 6 = 6²."
+      },
+      {
+        "q": "Which sequence contains only odd numbers?",
+        "options": [
+          "2, 4, 6, 8",
+          "1, 3, 5, 7",
+          "3, 6, 9, 12",
+          "1, 4, 9, 16"
+        ],
+        "answer": 1,
+        "why": "Every term in 1, 3, 5, 7 is odd."
+      },
+      {
+        "q": "The 4th triangular number is:",
+        "options": [
+          "7",
+          "8",
+          "10",
+          "16"
+        ],
+        "answer": 2,
+        "why": "1 + 2 + 3 + 4 = 10."
+      },
+      {
+        "q": "What is 3³?",
+        "options": [
+          "6",
+          "9",
+          "18",
+          "27"
+        ],
+        "answer": 3,
+        "why": "3³ = 3 × 3 × 3 = 27."
+      },
+      {
+        "q": "Find the next term: 5, 10, 20, 40, … .",
+        "options": [
+          "45",
+          "60",
+          "80",
+          "100"
+        ],
+        "answer": 2,
+        "why": "Each term is multiplied by 2; 40 × 2 = 80."
+      },
+      {
+        "q": "Which is the correct description of 2, 4, 6, 8, …?",
+        "options": [
+          "Add 1 each time",
+          "Add 2 each time",
+          "Multiply by 2 each time",
+          "Subtract 2 each time"
+        ],
+        "answer": 1,
+        "why": "The difference between consecutive terms is 2."
+      },
+      {
+        "q": "A 4 × 4 square array contains how many objects?",
+        "options": [
+          "8",
+          "12",
+          "16",
+          "20"
+        ],
+        "answer": 2,
+        "why": "There are 4 rows with 4 objects in each: 4 × 4 = 16."
+      },
+      {
+        "q": "Which number comes next in 1, 3, 6, 10, 15, …?",
+        "options": [
+          "18",
+          "20",
+          "21",
+          "25"
+        ],
+        "answer": 2,
+        "why": "The differences are +2, +3, +4, +5; next add 6 to get 21."
+      },
+      {
+        "q": "What should you do when explaining a pattern?",
+        "options": [
+          "Only guess the next number",
+          "State and check the rule",
+          "Ignore earlier terms",
+          "Choose any rule"
+        ],
+        "answer": 1,
+        "why": "A reliable explanation states a rule that fits the observed terms."
+      }
+    ],
+    "revision": [
+      "A pattern follows a rule; explain the rule clearly.",
+      "Counting numbers increase by 1.",
+      "Odd and even sequences increase by 2 when listed in order.",
+      "Square numbers: n² = n × n; first terms 1, 4, 9, 16, 25, 36, … .",
+      "Triangular numbers: add the next counting number; 1, 3, 6, 10, 15, 21, … .",
+      "Cube numbers: n³ = n × n × n; first terms 1, 8, 27, 64, 125, … .",
+      "A visual arrangement can help explain why a numerical pattern works.",
+      "For any sequence, test the proposed rule against all given terms.",
+      "Virahanka-type sequence: each term is the sum of the two previous terms, e.g. 1, 2, 3, 5, 8, 13, … .",
+      "Powers of a base multiply repeatedly: powers of 2 are 1, 2, 4, 8, 16, … .",
+      "The sum of the first n positive odd numbers equals n².",
+      "Two consecutive triangular numbers can add to a square number.",
+      "Shape patterns can be studied by counting sides, points, edges or repeated pieces."
+    ],
+    "disclaimer": "This is original supplementary learning material, not a reproduction of NCERT textbook text and not an official NCERT answer key. It does not claim to cover every Figure it Out question from the book."
+  }
+}
