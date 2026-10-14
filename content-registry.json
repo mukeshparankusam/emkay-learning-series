@@ -1,0 +1,102 @@
+{
+  "project": "EMKAY LEARNING SERIES",
+  "classes": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "subjects": [
+    "Mathematics",
+    "Science",
+    "Social Science",
+    "English",
+    "Hindi",
+    "Telugu",
+    "Sanskrit",
+    "Computer Science",
+    "General Knowledge"
+  ],
+  "sourcePolicy": "Use official NCERT textbooks where the selected class-subject has an applicable NCERT title. For languages/computing/GK where a matching NCERT textbook is not published or prescribed, do not label content NCERT; mark it supplementary and confirm the curriculum with the site owner.",
+  "contentWorkflow": [
+    "not-started",
+    "draft",
+    "verified",
+    "needs-review"
+  ],
+  "requiredMetadataPerBook": [
+    "class",
+    "subject",
+    "bookTitle",
+    "language",
+    "editionOrReprintYear",
+    "officialUrl",
+    "chapterListVerified",
+    "reviewer",
+    "reviewedAt",
+    "status"
+  ],
+  "requiredChapterSections": [
+    "summary",
+    "keyConcepts",
+    "originalWorkedSolutions",
+    "practiceQuestions",
+    "mcqsWithExplanations",
+    "interactiveQuiz",
+    "quickRevision"
+  ],
+  "chapterStatus": "Original learning packages are available for Class 6 Mathematics Chapters 1–10; Class 6 Science Chapters 1–4; and Chapter 1 of English, Hindi and Social Science. Remaining indexed sections are not yet authored/reviewed.",
+  "status": "Classes 6–12 navigation and supplied-book inventory are connected. Seventeen original lesson packages are authored; other chapters remain inventory-only.",
+  "authoredLessonPackages": [
+    {
+      "class": 6,
+      "subject": "Mathematics",
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "class": 6,
+      "subject": "Science",
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "class": 6,
+      "subject": "English",
+      "chapters": [
+        1
+      ]
+    },
+    {
+      "class": 6,
+      "subject": "Hindi",
+      "chapters": [
+        1
+      ]
+    },
+    {
+      "class": 6,
+      "subject": "Social Science",
+      "chapters": [
+        1
+      ]
+    }
+  ]
+}
