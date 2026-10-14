@@ -1,0 +1,170 @@
+{
+  "id": "class-6-mathematics-chapter-10",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "The Other Side of Zero",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 10 (fegp110.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Interpret positive, negative and zero values in context.",
+    "Place integers on a number line.",
+    "Compare and order integers.",
+    "Use opposite numbers to describe equal distances in opposite directions from zero."
+  ],
+  "summary": "Numbers below zero are negative numbers. Positive and negative numbers can describe positions or changes relative to a reference point. On a number line, numbers farther to the right are greater, and numbers farther to the left are smaller.",
+  "concepts": [
+    {
+      "title": "Zero as a reference",
+      "explanation": "Zero can represent a reference level, such as sea level, a starting balance or no change. Positive values are above or beyond the reference in one direction; negative values are below or opposite it.",
+      "example": "A temperature of −3°C is three degrees below zero."
+    },
+    {
+      "title": "The number line",
+      "explanation": "Numbers increase from left to right. Negative integers lie left of zero; positive integers lie right of zero. Equal spacing represents equal numerical steps.",
+      "example": "−4 lies to the left of −1, so −4 is smaller than −1."
+    },
+    {
+      "title": "Opposite numbers",
+      "explanation": "Opposite numbers are the same distance from zero on opposite sides. Their sum is zero. Zero is its own opposite.",
+      "example": "The opposite of 6 is −6; both are six units from zero."
+    },
+    {
+      "title": "Comparing integers",
+      "explanation": "On a number line, the integer farther right is greater. Among negative numbers, the one with the smaller absolute distance from zero is greater.",
+      "example": "−2 > −7 because −2 is to the right of −7 and is closer to zero."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Order −3, 2, −6, 0 from least to greatest.",
+      "steps": [
+        "Place them on a number line.",
+        "Negative values come before zero; among negatives, −6 is left of −3.",
+        "Positive 2 is to the right of zero."
+      ],
+      "answer": "−6, −3, 0, 2."
+    },
+    {
+      "question": "The temperature rises from −4°C to 3°C. By how many degrees did it rise?",
+      "steps": [
+        "Count from −4 to 0: 4 degrees.",
+        "Count from 0 to 3: 3 degrees.",
+        "Total change = 4 + 3."
+      ],
+      "answer": "It rose by 7°C."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Which is greater: −1 or −5?",
+      "answer": "−1.",
+      "why": "−1 is farther to the right on the number line."
+    },
+    {
+      "question": "What is the opposite of −12?",
+      "answer": "12.",
+      "why": "Opposites are equally far from zero on opposite sides."
+    },
+    {
+      "question": "Arrange 4, −2, 0, −7 in increasing order.",
+      "answer": "−7, −2, 0, 4.",
+      "why": "Move from left to right on the number line."
+    },
+    {
+      "question": "What could −₹50 mean in a simple account context?",
+      "answer": "It could represent a debt or a balance 50 rupees below zero, depending on the chosen reference convention.",
+      "why": "The context determines what the sign means."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which integer is farthest left?",
+      "options": [
+        "−2",
+        "0",
+        "3",
+        "−8"
+      ],
+      "answer": 3,
+      "why": "−8 is the smallest of these integers."
+    },
+    {
+      "q": "The opposite of 9 is…",
+      "options": [
+        "9",
+        "−9",
+        "0",
+        "1/9"
+      ],
+      "answer": 1,
+      "why": "Opposites are on opposite sides of zero."
+    },
+    {
+      "q": "Which comparison is correct?",
+      "options": [
+        "−6 > −2",
+        "−2 > −6",
+        "−6 = −2",
+        "0 < −6"
+      ],
+      "answer": 1,
+      "why": "−2 lies to the right of −6."
+    },
+    {
+      "q": "A temperature of −5°C is…",
+      "options": [
+        "5 degrees above zero",
+        "5 degrees below zero",
+        "equal to 5°C",
+        "the same as 0°C"
+      ],
+      "answer": 1,
+      "why": "The negative sign indicates below the zero reference."
+    },
+    {
+      "q": "Increasing order means arranging numbers…",
+      "options": [
+        "greatest to least",
+        "left to right on the number line",
+        "by digit count",
+        "without zero"
+      ],
+      "answer": 1,
+      "why": "Increasing order goes from smaller to greater."
+    }
+  ],
+  "revision": [
+    "Negative integers lie left of zero; positive integers lie right.",
+    "A number farther right on the number line is greater.",
+    "Opposites have equal distance from zero and opposite signs.",
+    "Use the context to interpret what a positive or negative value represents."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Order −5, 1, −1, 0 from least to greatest.",
+        "answer": "−5, −1, 0, 1."
+      },
+      {
+        "q": "Explain why −3 is greater than −8.",
+        "answer": "−3 lies to the right of −8 on the number line; it is closer to zero."
+      },
+      {
+        "q": "A lift moves from floor −2 to floor 5. How many floor-level steps upward is this?",
+        "answer": "5 − (−2) = 7 steps upward."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}

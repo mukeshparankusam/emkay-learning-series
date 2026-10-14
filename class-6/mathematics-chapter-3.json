@@ -1,0 +1,169 @@
+{
+  "id": "class-6-mathematics-chapter-3",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Number Play",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 3 (fegp103.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Use place value to interpret multi-digit numbers.",
+    "Investigate patterns created by reversing or rearranging digits.",
+    "Apply divisibility tests to check numbers efficiently.",
+    "Explain the reasoning behind a number puzzle."
+  ],
+  "summary": "Numbers can be explored through place value, digit patterns, divisibility, reversal and systematic reasoning. A puzzle becomes easier when the rules are written clearly and each step is checked rather than guessed.",
+  "concepts": [
+    {
+      "title": "Place value",
+      "explanation": "A digit’s value depends on its position. In 4,582, the 4 represents 4,000, the 5 represents 500, the 8 represents 80 and the 2 represents 2.",
+      "example": "4,582 = 4,000 + 500 + 80 + 2."
+    },
+    {
+      "title": "Digit patterns",
+      "explanation": "A number puzzle often depends on a clear operation: adding digits, reversing digits, or comparing the original number with the reversed number.",
+      "example": "The reverse of 247 is 742; the digits are the same but their place values change."
+    },
+    {
+      "title": "Divisibility clues",
+      "explanation": "A whole number is divisible by 2 if its last digit is even; by 5 if it ends in 0 or 5; and by 10 if it ends in 0. Divisibility by 3 can be checked by adding its digits and checking whether the sum is divisible by 3.",
+      "example": "For 372, digit sum = 3 + 7 + 2 = 12, which is divisible by 3; so 372 is divisible by 3."
+    },
+    {
+      "title": "Test a rule systematically",
+      "explanation": "Write down the rule, apply it to a small example, and verify each calculation. A pattern that works for one number may not work for every number, so test more than one case.",
+      "example": "If a claim says every number ending in 5 is divisible by 5, test 35 and 125; both end in 5 and divide evenly by 5."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Write 6,304 in expanded form.",
+      "steps": [
+        "6 is in the thousands place: 6,000.",
+        "3 is in the hundreds place: 300.",
+        "0 tens contributes 0; 4 ones contributes 4."
+      ],
+      "answer": "6,304 = 6,000 + 300 + 4."
+    },
+    {
+      "question": "Check whether 846 is divisible by 3.",
+      "steps": [
+        "Add the digits: 8 + 4 + 6 = 18.",
+        "18 is divisible by 3."
+      ],
+      "answer": "846 is divisible by 3."
+    }
+  ],
+  "practice": [
+    {
+      "question": "What is the value of 7 in 5,782?",
+      "answer": "700.",
+      "why": "The digit 7 is in the hundreds place."
+    },
+    {
+      "question": "Reverse the digits of 3,608.",
+      "answer": "8,063.",
+      "why": "Reverse the digit order, keeping all digits."
+    },
+    {
+      "question": "Is 4,235 divisible by 5? Explain.",
+      "answer": "Yes; it ends in 5.",
+      "why": "Numbers ending in 0 or 5 are divisible by 5."
+    },
+    {
+      "question": "Why should you test a number pattern with more than one example?",
+      "answer": "One example may fit by chance; multiple examples help check whether the proposed rule is consistent.",
+      "why": "A pattern claim should be supported, not guessed."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "In 8,451, the digit 4 represents…",
+      "options": [
+        "4",
+        "40",
+        "400",
+        "4,000"
+      ],
+      "answer": 2,
+      "why": "The 4 is in the hundreds place."
+    },
+    {
+      "q": "Which number is divisible by 10?",
+      "options": [
+        "345",
+        "710",
+        "127",
+        "555"
+      ],
+      "answer": 1,
+      "why": "A number divisible by 10 ends in zero."
+    },
+    {
+      "q": "The digit sum of 2,736 is…",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "21"
+      ],
+      "answer": 2,
+      "why": "2 + 7 + 3 + 6 = 18."
+    },
+    {
+      "q": "The reverse of 521 is…",
+      "options": [
+        "125",
+        "215",
+        "512",
+        "152"
+      ],
+      "answer": 0,
+      "why": "Reverse the order of the digits."
+    },
+    {
+      "q": "A good way to check a puzzle rule is to…",
+      "options": [
+        "ignore examples",
+        "test cases and verify calculations",
+        "change the rule each time",
+        "guess the answer"
+      ],
+      "answer": 1,
+      "why": "Testing cases helps establish whether the rule works."
+    }
+  ],
+  "revision": [
+    "A digit’s place determines its value.",
+    "Expanded form expresses a number as the sum of place values.",
+    "Divisibility tests are shortcuts for checking exact division.",
+    "State a number-puzzle rule clearly and test it on several cases."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Write 9,047 in expanded form.",
+        "answer": "9,000 + 40 + 7."
+      },
+      {
+        "q": "Use a divisibility test to check whether 5,148 is divisible by 3.",
+        "answer": "5 + 1 + 4 + 8 = 18; 18 is divisible by 3, so 5,148 is divisible by 3."
+      },
+      {
+        "q": "Why is a counterexample useful when checking a claim?",
+        "answer": "A single valid counterexample can show that a claim stated for all numbers is false."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}

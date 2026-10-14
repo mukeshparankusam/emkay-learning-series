@@ -1,0 +1,169 @@
+{
+  "id": "class-6-mathematics-chapter-5",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Prime Time",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 5 (fegp105.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Distinguish factors from multiples.",
+    "Identify prime and composite numbers.",
+    "Use divisibility rules to test possible factors.",
+    "Express a composite number as a product of primes."
+  ],
+  "summary": "Prime numbers have exactly two positive factors, 1 and themselves. Composite numbers have more than two positive factors. Divisibility, factors, multiples and prime factorisation help explain how whole numbers are built and related.",
+  "concepts": [
+    {
+      "title": "Factors and multiples",
+      "explanation": "A factor divides a number exactly. A multiple is obtained by multiplying a number by a whole number. A number has a finite set of positive factors but infinitely many positive multiples.",
+      "example": "Factors of 12 are 1, 2, 3, 4, 6 and 12. Multiples of 12 include 12, 24, 36 and 48."
+    },
+    {
+      "title": "Prime numbers",
+      "explanation": "A prime number is a whole number greater than 1 with exactly two positive factors: 1 and itself. The number 1 is neither prime nor composite.",
+      "example": "7 is prime because its only positive factors are 1 and 7."
+    },
+    {
+      "title": "Composite numbers",
+      "explanation": "A composite number greater than 1 has more than two positive factors. It can be written as a product of smaller whole numbers greater than 1.",
+      "example": "12 is composite because 12 = 3 × 4 and has more than two factors."
+    },
+    {
+      "title": "Prime factorisation",
+      "explanation": "Prime factorisation writes a composite number as a product of prime numbers. Repeated division or a factor tree can help; stop when every factor is prime.",
+      "example": "18 = 2 × 9 = 2 × 3 × 3."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Find all positive factors of 18.",
+      "steps": [
+        "Check pairs that multiply to 18: 1×18, 2×9, 3×6.",
+        "List each factor once."
+      ],
+      "answer": "1, 2, 3, 6, 9, 18."
+    },
+    {
+      "question": "Write 60 as a product of prime factors.",
+      "steps": [
+        "60 = 2 × 30.",
+        "30 = 2 × 15.",
+        "15 = 3 × 5; all factors are now prime."
+      ],
+      "answer": "60 = 2 × 2 × 3 × 5 = 2² × 3 × 5."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Is 1 prime? Explain.",
+      "answer": "No. It has only one positive factor, while a prime number has exactly two.",
+      "why": "The definition excludes 1."
+    },
+    {
+      "question": "List the first five positive multiples of 7.",
+      "answer": "7, 14, 21, 28, 35.",
+      "why": "Multiply 7 by 1 through 5."
+    },
+    {
+      "question": "Why is 21 composite?",
+      "answer": "21 = 3 × 7, so it has factors other than 1 and itself.",
+      "why": "A composite number has more than two positive factors."
+    },
+    {
+      "question": "Prime-factorise 24.",
+      "answer": "24 = 2 × 2 × 2 × 3 = 2³ × 3.",
+      "why": "Keep splitting until every factor is prime."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which number is prime?",
+      "options": [
+        "9",
+        "11",
+        "15",
+        "21"
+      ],
+      "answer": 1,
+      "why": "11 has only the positive factors 1 and 11."
+    },
+    {
+      "q": "Which statement about 1 is correct?",
+      "options": [
+        "It is prime",
+        "It is composite",
+        "It is neither prime nor composite",
+        "It has no factor"
+      ],
+      "answer": 2,
+      "why": "One has exactly one positive factor."
+    },
+    {
+      "q": "A factor of 20 is…",
+      "options": [
+        "3",
+        "6",
+        "7",
+        "5"
+      ],
+      "answer": 3,
+      "why": "20 ÷ 5 = 4 exactly."
+    },
+    {
+      "q": "Prime factorisation of 12 is…",
+      "options": [
+        "2×2×3",
+        "2×6 only",
+        "3×4 only",
+        "1×12 only"
+      ],
+      "answer": 0,
+      "why": "The prime factors are 2, 2 and 3."
+    },
+    {
+      "q": "Multiples of 6 include…",
+      "options": [
+        "7, 13, 19",
+        "6, 12, 18",
+        "1, 2, 3",
+        "5, 10, 15"
+      ],
+      "answer": 1,
+      "why": "Multiples are products of 6 with whole numbers."
+    }
+  ],
+  "revision": [
+    "Factors divide a number exactly; multiples are products of that number.",
+    "Prime numbers have exactly two positive factors; 1 is neither prime nor composite.",
+    "Composite numbers have more than two positive factors.",
+    "Prime factorisation expresses a number as a product of primes."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Find the positive factors of 16.",
+        "answer": "1, 2, 4, 8, 16."
+      },
+      {
+        "q": "Explain why 29 is prime.",
+        "answer": "It is greater than 1 and is not divisible exactly by any whole number other than 1 and 29."
+      },
+      {
+        "q": "Prime-factorise 90.",
+        "answer": "90 = 9 × 10 = 3 × 3 × 2 × 5 = 2 × 3² × 5."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}
