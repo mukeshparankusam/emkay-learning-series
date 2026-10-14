@@ -1,0 +1,188 @@
+{
+  "id": "class-9-mathematics-mathematics-part-2-5-13-two-variables-one-line-in",
+  "class": 9,
+  "subject": "Mathematics",
+  "textbook": "Mathematics — Part 2",
+  "chapter": "13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and",
+  "unit": "Chapter 5 · 13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and",
+  "source": "Original supplementary study package for Class 9 Mathematics, based on the uploaded source register (iemh2dd.zip, PDF candidate iemh205.pdf). The title is an extracted candidate, not yet manually verified against the full chapter.",
+  "status": "generated-original-draft-needs-chapter-specific-review",
+  "goals": [
+    "Explain the main mathematical idea represented by “13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and”.",
+    "Identify the given information, the unknown quantity and the suitable representation.",
+    "Choose a method, show each step and check whether the result is reasonable.",
+    "Explain the answer using correct mathematical language and units where relevant."
+  ],
+  "summary": "This learning guide focuses on 13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and. Begin by stating the problem in your own words, listing known information and identifying what must be found. Connect the question to a definition, property, representation or formula from the textbook. Work systematically, write intermediate steps, and verify the result with an estimate, inverse operation, substitution or a second method. The exact notation and examples should be aligned with the prescribed textbook section.",
+  "concepts": [
+    {
+      "title": "Focus of this chapter: 13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and",
+      "explanation": "Treat Variables, Line, Ganita, Manjari as the chapter’s focus. While reading, record the definition or central claim, the supporting details, and one example from the source. If the extracted heading combines a unit heading with a lesson title, separate those elements by checking the first page of the PDF.",
+      "example": "Make a three-column note: key term or claim | explanation from the textbook | your own example or question."
+    },
+    {
+      "title": "Understand the objects and terms",
+      "explanation": "Before calculating, define the quantities and terms that appear in 13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and. Distinguish a number, symbol, unit, condition or mathematical object from the operation performed on it.",
+      "example": "Write the given values separately from the quantity to be found; annotate a diagram or table if it clarifies the relationship."
+    },
+    {
+      "title": "Represent the relationship",
+      "explanation": "A diagram, number line, table, equation, graph or labelled figure can reveal relationships that are difficult to see in words. Select a representation that matches the information in the question.",
+      "example": "Translate each stated relationship into a labelled sketch, an ordered list of steps, or a mathematical expression before solving."
+    },
+    {
+      "title": "Select and apply a method",
+      "explanation": "Choose a definition, property or procedure that fits the problem. Keep the steps logically ordered and avoid changing the meaning of an expression while simplifying it.",
+      "example": "State the rule being used, substitute the known values carefully, and show the intermediate line instead of jumping directly to the result."
+    },
+    {
+      "title": "Check and interpret",
+      "explanation": "A result should satisfy the original conditions. Check signs, units, magnitude, arithmetic and whether the answer is possible in the context.",
+      "example": "Use estimation, substitution, an inverse operation or an alternative representation to test the answer."
+    }
+  ],
+  "visual": {
+    "title": "A repeatable study path",
+    "steps": [
+      "Read the source section",
+      "Define key terms",
+      "Work through an example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "How should you approach a typical problem from “13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and” when the numbers or diagram change?",
+      "steps": [
+        "Read the full question and underline the required result.",
+        "List all given values, definitions and conditions, with units where applicable.",
+        "Choose the relevant rule or representation from the textbook and explain why it applies.",
+        "Carry out the calculation or reasoning one step at a time, keeping intermediate work visible.",
+        "Check the result against the original conditions and state the answer clearly."
+      ],
+      "answer": "A justified solution includes the method, the necessary steps and a check—not just the final number."
+    },
+    {
+      "question": "A student gets an answer but cannot explain how it was obtained. How can the solution be improved?",
+      "steps": [
+        "Name the rule, definition or relationship used.",
+        "Show the substitution or transformation that connects one line to the next.",
+        "Check the result independently or use the original conditions."
+      ],
+      "answer": "A complete mathematical solution makes its reasoning reproducible."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Write a one-sentence definition of the central idea in “13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and”.",
+      "answer": "Use the exact definition from the textbook, then restate it in your own words without changing its meaning.",
+      "why": "Precise definitions prevent errors when choosing a method."
+    },
+    {
+      "question": "What information should be written before starting a multi-step problem?",
+      "answer": "The given quantities, the required quantity, relevant conditions and units.",
+      "why": "This makes the target and constraints visible."
+    },
+    {
+      "question": "Name two ways to check a mathematical result.",
+      "answer": "Examples include estimation, substitution, an inverse operation, checking units or solving with a second method.",
+      "why": "Independent checks help catch calculation and reasoning errors."
+    },
+    {
+      "question": "Why is a labelled diagram or table sometimes useful?",
+      "answer": "It organises information and makes relationships or patterns easier to see.",
+      "why": "A suitable representation can reduce the number of reasoning steps."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "What should be identified first in a word problem?",
+      "options": [
+        "Only the final answer",
+        "The given information and what is asked",
+        "A random formula",
+        "The longest number"
+      ],
+      "answer": 1,
+      "why": "The known information and the target determine which method is appropriate."
+    },
+    {
+      "q": "A mathematical method is well chosen when it…",
+      "options": [
+        "matches the relationships in the problem",
+        "uses the most steps possible",
+        "avoids definitions",
+        "always gives a larger answer"
+      ],
+      "answer": 0,
+      "why": "The method must follow from the conditions and mathematical relationships."
+    },
+    {
+      "q": "Which is a useful way to verify a result?",
+      "options": [
+        "Ignore the original question",
+        "Check by substitution or an independent method",
+        "Remove units without reason",
+        "Change the data to fit"
+      ],
+      "answer": 1,
+      "why": "An independent check tests whether the result satisfies the original conditions."
+    },
+    {
+      "q": "Why show intermediate steps?",
+      "options": [
+        "To hide the method",
+        "To make reasoning clear and errors easier to locate",
+        "To guarantee every answer is correct",
+        "To avoid checking"
+      ],
+      "answer": 1,
+      "why": "Visible steps make a solution understandable and auditable."
+    },
+    {
+      "q": "If a result contradicts a condition in the question, you should…",
+      "options": [
+        "keep it because you calculated it",
+        "recheck the assumptions and steps",
+        "delete the question",
+        "change the condition silently"
+      ],
+      "answer": 1,
+      "why": "A solution must satisfy the stated conditions."
+    }
+  ],
+  "revision": [
+    "The chapter focus is 13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and; define its key terms before attempting application questions.",
+    "Distinguish a definition or claim from the example or evidence used to explain it.",
+    "Use the method appropriate to the subject: show mathematical working, scientific reasoning, source-based evidence or textual analysis.",
+    "Check units, labels, definitions, context and assumptions before finalising an answer.",
+    "Verify any chapter-specific facts, quotations, formulae and exercise responses against the supplied textbook PDF."
+  ],
+  "chapterTest": {
+    "instructions": "Attempt each question before opening the answer guide. Replace generic prompts with chapter-specific evidence after checking the full source chapter.",
+    "questions": [
+      {
+        "q": "Define or explain the central idea in “13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and” in your own words.",
+        "answer": "Use the textbook’s precise definition or central explanation, then restate it clearly without changing its meaning."
+      },
+      {
+        "q": "Give one relevant example or piece of evidence for “13 Two Variables, One Line In Chapter 2 of Ganita Manjari, Part I, we explored linear patterns and”.",
+        "answer": "Select an example, worked case, textual detail, data point or diagram from the relevant textbook section and explain how it supports the idea."
+      },
+      {
+        "q": "Explain one relationship, step, cause, method or language feature that is important to this topic.",
+        "answer": "State the relationship or feature and explain its role in the chapter using a relevant source detail."
+      },
+      {
+        "q": "What is one common mistake a learner could make in this topic, and how can it be avoided?",
+        "answer": "A likely mistake is giving an unsupported claim or skipping a reasoning step. Define terms, show working and check the source."
+      },
+      {
+        "q": "Write a short answer that connects a key term to an example and explains the connection.",
+        "answer": "A complete answer defines the term, names a relevant example and explicitly explains why the example fits."
+      }
+    ]
+  },
+  "disclaimer": "This is an original learning scaffold, not a verified chapter-complete lesson or official answer key. Textbook-specific facts, diagrams, formulae, worked solutions and exercise coverage require chapter-by-chapter review."
+}

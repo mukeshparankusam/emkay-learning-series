@@ -1,0 +1,168 @@
+{
+  "id": "class-6-mathematics-chapter-2",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Lines and Angles",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 2 (fegp102.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Distinguish a line, line segment and ray.",
+    "Identify an angle’s vertex and arms.",
+    "Classify acute, right, obtuse, straight and reflex angles by size.",
+    "Use a protractor carefully to measure an angle."
+  ],
+  "summary": "Geometry describes shapes, positions and relationships. A line extends indefinitely in both directions, a line segment has two endpoints, and a ray begins at one point and continues in one direction. Angles are formed when two rays share an endpoint. Their size describes the amount of turn between the rays.",
+  "concepts": [
+    {
+      "title": "Lines, segments and rays",
+      "explanation": "A line has no endpoints and extends both ways. A segment is the part between two endpoints. A ray has one endpoint and extends in one direction.",
+      "example": "A ruler edge marked from A to B represents segment AB; the drawn part does not extend endlessly."
+    },
+    {
+      "title": "Understanding an angle",
+      "explanation": "An angle is formed by two rays with a common endpoint. The common endpoint is the vertex and the rays are the arms. The angle measures the turn from one arm to the other.",
+      "example": "In ∠ABC, B is the vertex because it is the middle letter."
+    },
+    {
+      "title": "Types of angles",
+      "explanation": "An acute angle is less than 90°; a right angle is 90°; an obtuse angle is greater than 90° but less than 180°; a straight angle is 180°. A reflex angle is greater than 180° but less than 360°.",
+      "example": "120° is obtuse because 90° < 120° < 180°."
+    },
+    {
+      "title": "Measuring accurately",
+      "explanation": "Place the protractor centre at the vertex, align its baseline with one arm, then read the scale that starts at 0° on that arm. Estimate whether the answer should be acute or obtuse before choosing a scale.",
+      "example": "If the angle visibly opens wider than a right angle, a reading of 40° likely comes from the wrong scale."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Classify an angle measuring 35°.",
+      "steps": [
+        "Compare 35° with 90°.",
+        "Since 35° is smaller than 90°, it is acute."
+      ],
+      "answer": "Acute angle."
+    },
+    {
+      "question": "An angle measures 145°. Classify it.",
+      "steps": [
+        "It is larger than 90°.",
+        "It is smaller than 180°."
+      ],
+      "answer": "Obtuse angle."
+    }
+  ],
+  "practice": [
+    {
+      "question": "What is the difference between a segment and a ray?",
+      "answer": "A segment has two endpoints; a ray has one endpoint and continues in one direction.",
+      "why": "The endpoints define how far each figure extends."
+    },
+    {
+      "question": "Classify 90°, 180° and 215°.",
+      "answer": "90° is right; 180° is straight; 215° is reflex.",
+      "why": "Use the defining angle ranges."
+    },
+    {
+      "question": "Why must the protractor centre sit on the vertex?",
+      "answer": "Because the measurement must be taken from the angle’s actual turning point.",
+      "why": "Misplacing the centre changes the alignment and can give a wrong reading."
+    },
+    {
+      "question": "Can two angles have different arm lengths but the same measure?",
+      "answer": "Yes. Angle measure depends on the amount of turn, not the length of the arms.",
+      "why": "Extending an arm does not change the opening."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "An angle smaller than 90° is…",
+      "options": [
+        "acute",
+        "right",
+        "obtuse",
+        "straight"
+      ],
+      "answer": 0,
+      "why": "Acute angles are greater than 0° and less than 90°."
+    },
+    {
+      "q": "The common endpoint of an angle’s arms is its…",
+      "options": [
+        "base",
+        "vertex",
+        "diameter",
+        "centre of a circle"
+      ],
+      "answer": 1,
+      "why": "The vertex is the shared endpoint."
+    },
+    {
+      "q": "Which is an obtuse angle?",
+      "options": [
+        "45°",
+        "90°",
+        "125°",
+        "180°"
+      ],
+      "answer": 2,
+      "why": "125° lies between 90° and 180°."
+    },
+    {
+      "q": "A straight angle measures…",
+      "options": [
+        "45°",
+        "90°",
+        "180°",
+        "360°"
+      ],
+      "answer": 2,
+      "why": "A straight angle forms a straight line."
+    },
+    {
+      "q": "Angle size depends on…",
+      "options": [
+        "arm length",
+        "amount of turn",
+        "colour of the arms",
+        "paper size"
+      ],
+      "answer": 1,
+      "why": "Angle measure represents the opening or turn."
+    }
+  ],
+  "revision": [
+    "Line: extends both ways; segment: two endpoints; ray: one endpoint.",
+    "The vertex is the common endpoint of the two arms.",
+    "Acute < 90°; right = 90°; obtuse is between 90° and 180°; straight = 180°; reflex is between 180° and 360°.",
+    "When using a protractor, align the centre and baseline, then choose the correct scale."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Explain the difference between a line, segment and ray.",
+        "answer": "A line extends in both directions; a segment has two endpoints; a ray has one endpoint and extends in one direction."
+      },
+      {
+        "q": "Classify 72°, 90°, 164° and 180°.",
+        "answer": "72° acute; 90° right; 164° obtuse; 180° straight."
+      },
+      {
+        "q": "List the steps to measure an angle with a protractor.",
+        "answer": "Place centre at vertex, align baseline with one arm, read the scale beginning at zero on that arm, and check whether the result matches the visible angle."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}

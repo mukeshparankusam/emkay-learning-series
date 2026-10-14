@@ -1,0 +1,170 @@
+{
+  "id": "class-6-mathematics-chapter-6",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Perimeter and Area",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 6 (fegp106.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Distinguish perimeter from area.",
+    "Calculate perimeter by adding side lengths.",
+    "Use rectangle and square area formulas with correct units.",
+    "Solve simple real-life measurement problems."
+  ],
+  "summary": "Perimeter measures the total distance around a closed shape. Area measures the surface covered inside it. Perimeter uses linear units such as cm or m, while area uses square units such as cm² or m².",
+  "concepts": [
+    {
+      "title": "Perimeter",
+      "explanation": "Perimeter is the total length of the boundary of a closed figure. Add all side lengths; for a rectangle, opposite sides are equal.",
+      "example": "A rectangle of length 8 cm and width 3 cm has perimeter 8+3+8+3 = 22 cm."
+    },
+    {
+      "title": "Area as covering",
+      "explanation": "Area tells how many unit squares cover a flat region without gaps or overlaps. It is measured in square units.",
+      "example": "A 4 cm by 3 cm rectangle contains 4 × 3 = 12 unit squares of 1 cm²."
+    },
+    {
+      "title": "Rectangle and square formulas",
+      "explanation": "For a rectangle, area = length × width. For a square, area = side × side. A rectangle’s perimeter is 2 × (length + width); a square’s perimeter is 4 × side.",
+      "example": "A square with side 5 cm has area 25 cm² and perimeter 20 cm."
+    },
+    {
+      "title": "Units matter",
+      "explanation": "Perimeter is a length, so write units such as cm or m. Area counts squares, so write cm² or m². Convert units before combining measurements.",
+      "example": "A floor’s area may be 12 m², while the skirting length around it is measured in metres."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Find the perimeter and area of a rectangle 9 cm long and 4 cm wide.",
+      "steps": [
+        "Perimeter = 2 × (9 + 4) = 26.",
+        "Area = 9 × 4 = 36."
+      ],
+      "answer": "Perimeter = 26 cm; area = 36 cm²."
+    },
+    {
+      "question": "A square has perimeter 32 m. Find its side and area.",
+      "steps": [
+        "Each of the four sides is equal.",
+        "Side = 32 ÷ 4 = 8 m.",
+        "Area = 8 × 8."
+      ],
+      "answer": "Side = 8 m; area = 64 m²."
+    }
+  ],
+  "practice": [
+    {
+      "question": "A square has side 7 cm. Find its perimeter.",
+      "answer": "28 cm.",
+      "why": "4 × 7 = 28."
+    },
+    {
+      "question": "A rectangle is 6 m by 5 m. Find its area.",
+      "answer": "30 m².",
+      "why": "6 × 5 = 30 square metres."
+    },
+    {
+      "question": "Why is area written in square units?",
+      "answer": "Because it counts unit squares covering a surface.",
+      "why": "Area measures a two-dimensional region."
+    },
+    {
+      "question": "A rectangle has perimeter 24 cm and length 8 cm. Find its width.",
+      "answer": "Width = 4 cm. 2(L+W)=24, so L+W=12 and W=12−8=4.",
+      "why": "Use the perimeter relationship and solve for the missing side."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Perimeter measures…",
+      "options": [
+        "the space inside",
+        "distance around a boundary",
+        "mass",
+        "volume"
+      ],
+      "answer": 1,
+      "why": "Perimeter is boundary length."
+    },
+    {
+      "q": "Area of a 6 cm by 2 cm rectangle is…",
+      "options": [
+        "8 cm²",
+        "12 cm²",
+        "16 cm",
+        "24 cm²"
+      ],
+      "answer": 1,
+      "why": "Area = 6 × 2 = 12 cm²."
+    },
+    {
+      "q": "A square of side 4 m has perimeter…",
+      "options": [
+        "8 m",
+        "12 m",
+        "16 m",
+        "16 m²"
+      ],
+      "answer": 2,
+      "why": "Four equal sides: 4 × 4 = 16 m."
+    },
+    {
+      "q": "Which is an area unit?",
+      "options": [
+        "cm",
+        "m",
+        "cm²",
+        "kg"
+      ],
+      "answer": 2,
+      "why": "Square units measure area."
+    },
+    {
+      "q": "A rectangle has length 10 cm and width 3 cm. Its perimeter is…",
+      "options": [
+        "13 cm",
+        "26 cm",
+        "30 cm²",
+        "60 cm"
+      ],
+      "answer": 1,
+      "why": "2 × (10+3) = 26 cm."
+    }
+  ],
+  "revision": [
+    "Perimeter = total boundary length; area = surface covered.",
+    "Rectangle perimeter = 2(L+W); rectangle area = L×W.",
+    "Square perimeter = 4s; square area = s².",
+    "Use linear units for perimeter and square units for area.",
+    "Convert measurements to compatible units before calculating."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Find the perimeter of a 12 cm by 5 cm rectangle.",
+        "answer": "2 × (12+5) = 34 cm."
+      },
+      {
+        "q": "A square has area 49 cm². Find its side and perimeter.",
+        "answer": "Side = √49 = 7 cm; perimeter = 4×7 = 28 cm."
+      },
+      {
+        "q": "Explain why 24 cm and 24 cm² do not mean the same thing.",
+        "answer": "24 cm is a length; 24 cm² is an area measured in square centimetres."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}

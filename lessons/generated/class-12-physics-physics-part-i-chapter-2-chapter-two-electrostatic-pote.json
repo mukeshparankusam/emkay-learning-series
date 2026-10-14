@@ -1,0 +1,188 @@
+{
+  "id": "class-12-physics-physics-part-i-2-chapter-two-electrostatic-po",
+  "class": 12,
+  "subject": "Physics",
+  "textbook": "Physics — Part I",
+  "chapter": "Chapter Two ELECTROSTATIC POTENTIAL AND",
+  "unit": "Chapter 2 · Chapter Two ELECTROSTATIC POTENTIAL AND",
+  "source": "Original supplementary study package for Class 12 Physics, based on the uploaded source register (leph1dd.zip, PDF candidate leph102.pdf). The title is an extracted candidate, not yet manually verified against the full chapter.",
+  "status": "generated-original-draft-needs-chapter-specific-review",
+  "goals": [
+    "Describe the central scientific idea in “Chapter Two ELECTROSTATIC POTENTIAL AND” using accurate terms.",
+    "Distinguish observations, models, laws, mechanisms and explanations where relevant.",
+    "Apply the idea to a familiar example or a textbook-style question.",
+    "Use evidence, diagrams, units or equations appropriately and state limitations."
+  ],
+  "summary": "This guide introduces Chapter Two ELECTROSTATIC POTENTIAL AND as a scientific learning focus. Study the textbook explanation, identify the important terms and diagrams, and connect each claim to the observation, mechanism, model or evidence supporting it. When the chapter includes an experiment or calculation, note the variables, conditions, units and limitations. The material here is original study support; details and textbook-specific terminology must be checked against the uploaded PDF.",
+  "concepts": [
+    {
+      "title": "Focus of this chapter: Chapter Two ELECTROSTATIC POTENTIAL AND",
+      "explanation": "Treat ELECTROSTATIC, POTENTIAL as the chapter’s focus. While reading, record the definition or central claim, the supporting details, and one example from the source. If the extracted heading combines a unit heading with a lesson title, separate those elements by checking the first page of the PDF.",
+      "example": "Make a three-column note: key term or claim | explanation from the textbook | your own example or question."
+    },
+    {
+      "title": "Physical quantities and models",
+      "explanation": "In studying Chapter Two ELECTROSTATIC POTENTIAL AND, identify the physical quantities involved, how they are measured and how they are related. A model simplifies a situation while preserving the features needed to explain or predict it.",
+      "example": "List the quantities, their SI units and any stated assumptions before using an equation."
+    },
+    {
+      "title": "Relationship and representation",
+      "explanation": "A formula expresses a relationship only under its stated conditions. A graph can show how one variable changes with another and whether the relationship is proportional, linear or more complex.",
+      "example": "Check the meaning of each symbol, the units on both sides and the conditions under which the relation applies."
+    },
+    {
+      "title": "Reason from evidence",
+      "explanation": "Separate measured observations from the interpretation made using a physical model. Include uncertainty and experimental limitations when they matter.",
+      "example": "Repeat a measurement, record units, compare the result with the expected trend and explain any discrepancy."
+    },
+    {
+      "title": "Apply and check",
+      "explanation": "Translate the situation into a diagram, known values and a suitable relationship. Check dimensions and whether the answer is physically plausible.",
+      "example": "Estimate the order of magnitude before calculating, then compare the calculated result with the estimate."
+    }
+  ],
+  "visual": {
+    "title": "A repeatable study path",
+    "steps": [
+      "Read the source section",
+      "Define key terms",
+      "Work through an example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "How can you explain an unfamiliar example related to “Chapter Two ELECTROSTATIC POTENTIAL AND”?",
+      "steps": [
+        "State the observation or situation without adding an unsupported cause.",
+        "Identify the relevant scientific terms and principle from the chapter.",
+        "Connect the principle to the situation step by step, using a diagram or equation if helpful.",
+        "State the conclusion and mention any condition or limitation that affects it."
+      ],
+      "answer": "A strong answer links the observation to a relevant principle and shows the reasoning."
+    },
+    {
+      "question": "A practical result differs from the expected result. What should be checked before drawing a conclusion?",
+      "steps": [
+        "Check the measuring instrument, units and recorded data.",
+        "Review whether the method controlled relevant variables.",
+        "Repeat the measurement where possible and record all results.",
+        "Consider whether the original explanation needs refinement."
+      ],
+      "answer": "Check data and method first; report unexpected evidence rather than hiding it."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Define the central term you meet in “Chapter Two ELECTROSTATIC POTENTIAL AND” and give one example.",
+      "answer": "Use the definition given in the chapter and choose an example that satisfies it.",
+      "why": "A correct example demonstrates that the definition is understood."
+    },
+    {
+      "question": "Why should an observation be distinguished from an inference?",
+      "answer": "An observation records evidence; an inference proposes an explanation for it.",
+      "why": "Keeping them separate prevents an assumption from being treated as measured fact."
+    },
+    {
+      "question": "What makes a comparison or experiment fair?",
+      "answer": "Change the factor being tested and keep other relevant conditions similar; measure consistently.",
+      "why": "Otherwise, another factor may explain the result."
+    },
+    {
+      "question": "How can a diagram improve a scientific explanation?",
+      "answer": "It shows parts, directions, stages or relationships that may be difficult to describe in words alone.",
+      "why": "A well-labelled diagram supports—not replaces—the written reasoning."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "A scientific explanation should be based primarily on…",
+      "options": [
+        "evidence and reasoning",
+        "the investigator’s preference",
+        "a single unsupported guess",
+        "the desired result"
+      ],
+      "answer": 0,
+      "why": "Scientific claims should be supported by evidence and reasoning."
+    },
+    {
+      "q": "An observation is best described as…",
+      "options": [
+        "a direct record of what is noticed or measured",
+        "always the final explanation",
+        "a personal wish",
+        "a conclusion that cannot be checked"
+      ],
+      "answer": 0,
+      "why": "Observations describe recorded evidence."
+    },
+    {
+      "q": "Why control relevant variables in an experiment?",
+      "options": [
+        "to identify the effect of the factor being tested",
+        "to guarantee a preferred result",
+        "to avoid recording data",
+        "to change every condition at once"
+      ],
+      "answer": 0,
+      "why": "Controlling variables reduces alternative explanations."
+    },
+    {
+      "q": "When a result differs from a prediction, the investigator should…",
+      "options": [
+        "record it and review the method and explanation",
+        "alter the record",
+        "ignore the result",
+        "claim the principle is proven false immediately"
+      ],
+      "answer": 0,
+      "why": "Unexpected results are evidence to examine, not conceal."
+    },
+    {
+      "q": "A labelled diagram is useful when it…",
+      "options": [
+        "clarifies structures or relationships",
+        "replaces all evidence",
+        "contains no labels",
+        "is unrelated to the question"
+      ],
+      "answer": 0,
+      "why": "Labels connect visual information to the explanation."
+    }
+  ],
+  "revision": [
+    "The chapter focus is Chapter Two ELECTROSTATIC POTENTIAL AND; define its key terms before attempting application questions.",
+    "Distinguish a definition or claim from the example or evidence used to explain it.",
+    "Use the method appropriate to the subject: show mathematical working, scientific reasoning, source-based evidence or textual analysis.",
+    "Check units, labels, definitions, context and assumptions before finalising an answer.",
+    "Verify any chapter-specific facts, quotations, formulae and exercise responses against the supplied textbook PDF."
+  ],
+  "chapterTest": {
+    "instructions": "Attempt each question before opening the answer guide. Replace generic prompts with chapter-specific evidence after checking the full source chapter.",
+    "questions": [
+      {
+        "q": "Define or explain the central idea in “Chapter Two ELECTROSTATIC POTENTIAL AND” in your own words.",
+        "answer": "Use the textbook’s precise definition or central explanation, then restate it clearly without changing its meaning."
+      },
+      {
+        "q": "Give one relevant example or piece of evidence for “Chapter Two ELECTROSTATIC POTENTIAL AND”.",
+        "answer": "Select an example, worked case, textual detail, data point or diagram from the relevant textbook section and explain how it supports the idea."
+      },
+      {
+        "q": "Explain one relationship, step, cause, method or language feature that is important to this topic.",
+        "answer": "State the relationship or feature and explain its role in the chapter using a relevant source detail."
+      },
+      {
+        "q": "What is one common mistake a learner could make in this topic, and how can it be avoided?",
+        "answer": "A likely mistake is giving an unsupported claim or skipping a reasoning step. Define terms, show working and check the source."
+      },
+      {
+        "q": "Write a short answer that connects a key term to an example and explains the connection.",
+        "answer": "A complete answer defines the term, names a relevant example and explicitly explains why the example fits."
+      }
+    ]
+  },
+  "disclaimer": "This is an original learning scaffold, not a verified chapter-complete lesson or official answer key. Textbook-specific facts, diagrams, formulae, worked solutions and exercise coverage require chapter-by-chapter review."
+}

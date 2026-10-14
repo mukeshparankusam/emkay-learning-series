@@ -1,0 +1,170 @@
+{
+  "id": "class-6-mathematics-chapter-8",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Playing with Constructions",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 8 (fegp108.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Use a ruler and compass carefully.",
+    "Construct line segments of a specified length.",
+    "Copy a line segment and compare lengths.",
+    "Understand why arcs and intersections can locate points precisely."
+  ],
+  "summary": "Geometric constructions use tools such as a ruler, compass and protractor to create figures accurately. A construction is not merely a sketch: each line or arc should follow a stated geometric condition.",
+  "concepts": [
+    {
+      "title": "Construction versus drawing",
+      "explanation": "A freehand sketch communicates an approximate shape. A construction uses defined tools and steps to satisfy a mathematical condition accurately.",
+      "example": "If a segment must be 5 cm, measure it with a ruler rather than estimating by eye."
+    },
+    {
+      "title": "Compass as a distance tool",
+      "explanation": "A compass keeps a chosen distance between its point and pencil. That distance can be transferred or used to draw an arc from a fixed point.",
+      "example": "Set the compass opening to the length AB, then use the same opening to mark an equal length from point P."
+    },
+    {
+      "title": "Copying a segment",
+      "explanation": "Measure or set the compass opening to the original segment, mark a starting point on a ray, and transfer the distance to locate the second endpoint.",
+      "example": "If AB is the given length and P is the start, mark Q so PQ = AB."
+    },
+    {
+      "title": "Accuracy and checking",
+      "explanation": "Use sharp pencil marks, steady compass placement and clearly labelled points. Check the result against the given condition instead of judging appearance alone.",
+      "example": "A copied segment should match the original length even if it is drawn in a different direction."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Construct a segment of length 4 cm using a ruler.",
+      "steps": [
+        "Mark a point A.",
+        "Place the ruler’s zero mark at A and mark B at 4 cm.",
+        "Draw the segment AB and label its length."
+      ],
+      "answer": "AB = 4 cm."
+    },
+    {
+      "question": "Copy a given segment AB using a compass.",
+      "steps": [
+        "Open the compass to the distance AB.",
+        "Draw a ray starting at P.",
+        "Without changing the compass opening, place its point at P and mark Q on the ray."
+      ],
+      "answer": "PQ = AB."
+    }
+  ],
+  "practice": [
+    {
+      "question": "Why is a compass useful in copying a length?",
+      "answer": "It transfers a fixed distance without needing to estimate the length again.",
+      "why": "The opening stays constant during the transfer."
+    },
+    {
+      "question": "What is the difference between a sketch and a construction?",
+      "answer": "A sketch is approximate; a construction follows precise tool-based steps to meet a condition.",
+      "why": "Precision is the key distinction."
+    },
+    {
+      "question": "If the compass opening changes while transferring a segment, what happens?",
+      "answer": "The new segment may not equal the original length.",
+      "why": "The distance must remain fixed."
+    },
+    {
+      "question": "Name two habits that improve construction accuracy.",
+      "answer": "Use a sharp pencil and stable tool placement; label points clearly and check the required condition.",
+      "why": "Clear, controlled marks reduce errors."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which tool transfers a fixed length conveniently?",
+      "options": [
+        "Compass",
+        "Eraser",
+        "Protractor alone",
+        "Blank paper"
+      ],
+      "answer": 0,
+      "why": "A compass maintains a set opening."
+    },
+    {
+      "q": "A construction should be…",
+      "options": [
+        "only decorative",
+        "based on stated geometric conditions",
+        "drawn without labels",
+        "estimated by eye only"
+      ],
+      "answer": 1,
+      "why": "A construction follows precise conditions."
+    },
+    {
+      "q": "To copy segment AB, the compass opening should be…",
+      "options": [
+        "random",
+        "equal to AB",
+        "twice AB always",
+        "zero"
+      ],
+      "answer": 1,
+      "why": "The opening transfers the required length."
+    },
+    {
+      "q": "A freehand sketch is usually…",
+      "options": [
+        "exact by definition",
+        "approximate",
+        "always a proof",
+        "a measuring unit"
+      ],
+      "answer": 1,
+      "why": "A sketch communicates a shape but may not be exact."
+    },
+    {
+      "q": "Why label construction points?",
+      "options": [
+        "to make reasoning and checking clear",
+        "to change the lengths",
+        "to remove the need for tools",
+        "to make angles larger"
+      ],
+      "answer": 0,
+      "why": "Labels identify points and make steps understandable."
+    }
+  ],
+  "revision": [
+    "A construction uses precise steps and tools, unlike an approximate sketch.",
+    "A compass transfers distance by keeping a fixed opening.",
+    "Use a ruler for measured lengths and label all key points.",
+    "Check the result against the condition given in the question."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Explain how a compass can copy a segment.",
+        "answer": "Set the compass to the original segment length, place its point at the new starting point on a ray, and mark the endpoint without changing the opening."
+      },
+      {
+        "q": "Why is a construction more than a neat drawing?",
+        "answer": "It follows precise geometric conditions and reproducible steps."
+      },
+      {
+        "q": "Give two ways to reduce errors in a construction.",
+        "answer": "Keep tools steady, use a sharp pencil, preserve compass opening, label points and check lengths."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}

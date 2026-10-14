@@ -1,0 +1,169 @@
+{
+  "id": "class-6-mathematics-chapter-4",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Data Handling and Presentation",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 4 (fegp104.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Explain what data are and why they are collected.",
+    "Organise counts using tally marks and frequency tables.",
+    "Read and create pictographs and bar graphs with clear labels.",
+    "Choose a sensible scale and draw conclusions supported by data."
+  ],
+  "summary": "Data are facts or measurements collected to answer a question. Organising data in tables, tally marks, pictographs and bar graphs helps reveal patterns that are difficult to notice in an unorganised list.",
+  "concepts": [
+    {
+      "title": "Data and frequency",
+      "explanation": "Data are collected observations or values. Frequency tells how many times a category or value occurs. A frequency table makes a long list easier to compare.",
+      "example": "If 6 students choose cricket, the frequency for cricket is 6."
+    },
+    {
+      "title": "Tally marks",
+      "explanation": "Tally marks are grouped in fives to make counting easier. The fifth mark crosses the first four, so totals can be checked quickly.",
+      "example": "A tally group of five plus two extra marks represents 7."
+    },
+    {
+      "title": "Pictographs",
+      "explanation": "A pictograph uses symbols to represent quantities. Its key must say what each symbol stands for; a half symbol can represent half the key value if the scale allows it.",
+      "example": "If one book symbol represents 4 books, three symbols represent 12 books."
+    },
+    {
+      "title": "Bar graphs and scale",
+      "explanation": "A bar graph compares categories using bars of equal width. Categories are placed on one axis and frequency on the other. Labels, a title and a consistent scale are essential.",
+      "example": "If one grid interval represents 2 students, a bar reaching 5 intervals represents 10 students."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "Favourite fruit counts are mango 8, banana 5 and apple 7. Which is most popular and how many students were counted?",
+      "steps": [
+        "Compare frequencies: 8, 5 and 7.",
+        "The largest frequency is 8 for mango.",
+        "Add all frequencies: 8 + 5 + 7 = 20."
+      ],
+      "answer": "Mango is most popular; 20 students were counted."
+    },
+    {
+      "question": "A pictograph key says one symbol represents 3 books. How many books do 4 symbols represent?",
+      "steps": [
+        "Multiply the number of symbols by the key value: 4 × 3."
+      ],
+      "answer": "12 books."
+    }
+  ],
+  "practice": [
+    {
+      "question": "What does frequency mean in a data table?",
+      "answer": "The number of times a value or category occurs.",
+      "why": "Frequency is a count."
+    },
+    {
+      "question": "Why must a pictograph include a key?",
+      "answer": "The key tells the reader how much quantity each symbol represents.",
+      "why": "Without a key, the symbol count cannot be converted reliably."
+    },
+    {
+      "question": "A bar graph scale is 1 division = 5 children. A bar is 4 divisions high. What is its value?",
+      "answer": "20 children.",
+      "why": "4 × 5 = 20."
+    },
+    {
+      "question": "Why should a graph have a title and labels?",
+      "answer": "They tell the reader what is being compared and what the axes represent.",
+      "why": "A graph needs context to be interpreted correctly."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "A frequency of 9 means…",
+      "options": [
+        "9 categories",
+        "the value occurs 9 times",
+        "the total is always 9",
+        "there are 9 axes"
+      ],
+      "answer": 1,
+      "why": "Frequency is the count for a category or value."
+    },
+    {
+      "q": "A pictograph key is used to…",
+      "options": [
+        "decorate the page",
+        "explain each symbol’s value",
+        "replace all labels",
+        "show the title only"
+      ],
+      "answer": 1,
+      "why": "The key connects symbols with quantities."
+    },
+    {
+      "q": "Which is essential in a bar graph?",
+      "options": [
+        "unequal bar widths without reason",
+        "no scale",
+        "clear labels and a scale",
+        "bars with no categories"
+      ],
+      "answer": 2,
+      "why": "Labels and scale make comparisons meaningful."
+    },
+    {
+      "q": "Counts are 3, 8, 6 and 4. The greatest count is…",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 3,
+      "why": "Eight is the largest of the four values."
+    },
+    {
+      "q": "If 1 symbol represents 2 objects, 5 symbols represent…",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "15"
+      ],
+      "answer": 1,
+      "why": "5 × 2 = 10."
+    }
+  ],
+  "revision": [
+    "Data are collected facts; frequency is a count.",
+    "Tally marks group counts to make them easier to check.",
+    "A pictograph needs a key.",
+    "A bar graph needs a title, labelled axes, categories and a consistent scale.",
+    "Describe only patterns that the data actually support."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Explain why data are organised before drawing a graph.",
+        "answer": "Organisation makes counts clear and helps prevent errors when representing or comparing categories."
+      },
+      {
+        "q": "A key says one symbol equals 5 votes. What do 6 symbols represent?",
+        "answer": "30 votes."
+      },
+      {
+        "q": "Name three features of a clear bar graph.",
+        "answer": "Any three: title, labelled axes, categories, consistent scale, equal-width bars and readable values."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}

@@ -1,0 +1,169 @@
+{
+  "id": "class-6-mathematics-chapter-9",
+  "class": 6,
+  "subject": "Mathematics",
+  "textbook": "Ganita Prakash",
+  "chapter": "Symmetry",
+  "source": "Original supplementary learning draft aligned to Class 6 Ganita Prakash Chapter 9 (fegp109.pdf), Reprint 2026–27. Verify any school-specific edition before publication.",
+  "status": "original-lesson-draft-reviewed-for-conceptual-accuracy",
+  "goals": [
+    "Identify a line of symmetry.",
+    "Test symmetry by folding or matching corresponding points.",
+    "Recognise simple rotational symmetry.",
+    "Distinguish symmetry from general visual balance."
+  ],
+  "summary": "A figure has line symmetry when it can be folded along a line so that the two halves match exactly. Rotational symmetry describes whether a figure matches itself after a turn smaller than a full turn.",
+  "concepts": [
+    {
+      "title": "Line symmetry",
+      "explanation": "A line of symmetry divides a figure into two mirror-image halves. Every point on one side has a corresponding point at the same perpendicular distance on the other side.",
+      "example": "A square has four lines of symmetry: two through the midpoints of opposite sides and two diagonals."
+    },
+    {
+      "title": "Testing symmetry",
+      "explanation": "Imagine folding the figure along a candidate line. If both halves match exactly, the line is a symmetry line. A drawing may look balanced without having exact symmetry.",
+      "example": "A scalene triangle has no line of symmetry because no fold makes its sides and vertices match."
+    },
+    {
+      "title": "Rotational symmetry",
+      "explanation": "A figure has rotational symmetry if a turn less than 360° maps it onto itself. The smallest positive such angle is the angle of rotation.",
+      "example": "A square matches itself after a 90° turn around its centre."
+    },
+    {
+      "title": "Symmetry in designs",
+      "explanation": "Symmetry appears in patterns, tiles, leaves, architecture and logos. Identifying the exact transformation helps describe a design mathematically.",
+      "example": "A repeated border may have translation symmetry even if a single motif has a line of symmetry."
+    }
+  ],
+  "visual": {
+    "title": "Chapter learning path",
+    "steps": [
+      "Understand the idea",
+      "Study a worked example",
+      "Practise independently",
+      "Check and revise"
+    ]
+  },
+  "workedExamples": [
+    {
+      "question": "How many lines of symmetry does a non-square rectangle have?",
+      "steps": [
+        "Try folding vertically through its centre: halves match.",
+        "Try folding horizontally through its centre: halves match.",
+        "A diagonal fold does not generally match."
+      ],
+      "answer": "Two lines of symmetry."
+    },
+    {
+      "question": "Does an equilateral triangle have line symmetry?",
+      "steps": [
+        "Each vertex can be joined to the midpoint of the opposite side.",
+        "Each of these three lines divides the triangle into matching halves."
+      ],
+      "answer": "Yes, it has three lines of symmetry."
+    }
+  ],
+  "practice": [
+    {
+      "question": "How many lines of symmetry does a square have?",
+      "answer": "Four.",
+      "why": "Two through side midpoints and two along diagonals."
+    },
+    {
+      "question": "Does a scalene triangle have a line of symmetry?",
+      "answer": "No.",
+      "why": "Its three side lengths differ, so no fold creates matching halves."
+    },
+    {
+      "question": "What does rotational symmetry mean?",
+      "answer": "A figure maps onto itself after a turn smaller than 360°.",
+      "why": "The figure’s appearance matches after the rotation."
+    },
+    {
+      "question": "Why is a visual guess not always enough to identify symmetry?",
+      "answer": "A figure can look balanced while its halves do not match exactly.",
+      "why": "Symmetry is an exact geometric relationship."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "A line of symmetry creates…",
+      "options": [
+        "two matching mirror halves",
+        "two unrelated shapes",
+        "two circles",
+        "no halves"
+      ],
+      "answer": 0,
+      "why": "The halves match as mirror images."
+    },
+    {
+      "q": "A square has how many lines of symmetry?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3,
+      "why": "A square has four reflection axes."
+    },
+    {
+      "q": "A scalene triangle has…",
+      "options": [
+        "three symmetry lines",
+        "one symmetry line",
+        "no line symmetry",
+        "four symmetry lines"
+      ],
+      "answer": 2,
+      "why": "No sides or angles match in a way that permits a symmetry fold."
+    },
+    {
+      "q": "Rotational symmetry involves…",
+      "options": [
+        "sliding only",
+        "turning around a point",
+        "changing colour",
+        "stretching the shape"
+      ],
+      "answer": 1,
+      "why": "Rotation is a turn around a centre."
+    },
+    {
+      "q": "A square maps onto itself after a 90° turn. This shows…",
+      "options": [
+        "rotational symmetry",
+        "no symmetry",
+        "only translation",
+        "unequal sides"
+      ],
+      "answer": 0,
+      "why": "A quarter-turn maps the square to the same outline."
+    }
+  ],
+  "revision": [
+    "Line symmetry means the halves match as mirror images.",
+    "A square has 4 lines of symmetry; a rectangle that is not a square has 2.",
+    "An equilateral triangle has 3 lines of symmetry; a scalene triangle has none.",
+    "Rotational symmetry occurs when a turn smaller than 360° maps the figure onto itself."
+  ],
+  "chapterTest": {
+    "instructions": "Answer independently before opening the answer guide. Show steps for calculations.",
+    "questions": [
+      {
+        "q": "Describe a way to test a proposed line of symmetry.",
+        "answer": "Fold along it or compare corresponding points; the two halves must match exactly."
+      },
+      {
+        "q": "Compare line symmetry in a square and a non-square rectangle.",
+        "answer": "A square has four lines of symmetry; a non-square rectangle has two."
+      },
+      {
+        "q": "What is rotational symmetry? Give an example.",
+        "answer": "A figure matches itself after a turn smaller than 360°; a square matches after a 90° turn."
+      }
+    ]
+  },
+  "disclaimer": "Original supplementary study material. It is not a verbatim reproduction of the textbook or an official NCERT answer key."
+}
